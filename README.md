@@ -140,7 +140,7 @@ Matplotlib, Seaborn
 
 Jupyter Notebook
 
-'''📁 Project Structure
+```📁 Project Structure
 
 healthcare-cost-prediction/
 ├── data/
@@ -155,7 +155,7 @@ healthcare-cost-prediction/
 ├── src/
 ├── README.md
 └── requirements.txt
-'''
+```
 
 👤 Author
 
