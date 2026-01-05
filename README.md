@@ -140,18 +140,19 @@ Matplotlib, Seaborn
 
 Jupyter Notebook
 
-📁 Project Structure
+## 📁 Project Structure
+
 healthcare-cost-prediction/
 ├── data/
-│   ├── raw/
-│   └── processed/
+│ ├── raw/
+│ └── processed/
 ├── notebooks/
-│   ├── 01_eda.ipynb
-│   ├── 02_feature_engineering.ipynb
-│   ├── 03_modeling.ipynb
-│   └── 04_evaluation.ipynb
-├── src/
+│ ├── 01_eda.ipynb
+│ ├── 02_feature_engineering.ipynb
+│ ├── 03_modeling.ipynb
+│ └── 04_evaluation.ipynb
 ├── models/
+├── src/
 ├── README.md
 └── requirements.txt
 
